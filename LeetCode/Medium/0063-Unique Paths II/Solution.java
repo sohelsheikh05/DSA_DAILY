@@ -1,5 +1,5 @@
 //Bottom Up
-
+//Time Complexity : O(m*n) Space Complexity : O(m*n)
 class Solution {
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
         if(obstacleGrid[0][0]==1) return 0;
