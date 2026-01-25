@@ -30,4 +30,40 @@
 //     }
 // }
 
+//Bottom up Time Complexity(O(n^2))
+class Solution {
+    public int minCut(String s) {
+        int n=s.length();
+        boolean dp[][]=new boolean[n][n];
+        for(int i=0;i<n;i++) dp[i][i]=true;
+        for(int l=2;l<=n;l++){
+            for(int i=0;i+l-1<n;i++){
+                int j=i+l-1;
+                if(s.charAt(i)==s.charAt(j) && l==2){
+                    dp[i][j]=true;
+                }
+                else if(s.charAt(i)==s.charAt(j)){
+                    dp[i][j]=dp[i+1][j-1];
+                }
+                else
+                   dp[i][j]=false;
+            }
+        }
 
+        int t[]=new int[n];
+        for(int i=0;i<n;i++){
+            if(dp[0][i]){
+                t[i]=0;
+            }
+            else{
+                t[i]=Integer.MAX_VALUE;
+                for(int j=0;j<i;j++){
+                   if(dp[j+1][i] && 1+t[j]<t[i]){
+                    t[i]=1+t[j];
+                   }
+                }
+            }
+        }
+    return t[n-1];
+    }
+}
