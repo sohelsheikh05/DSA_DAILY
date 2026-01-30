@@ -27,6 +27,7 @@
 |[283. Move Zeroes](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0283-pMove%20Zeroes)|
 |[334. Increasing Triplet Subsequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0334-Increasing%20Triplet%20Subsequence)|
 |[392. Is Subsequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0392-Is%20Subsequence)|
+|[1679. Max Number of K-Sum Pairs](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1679-Max%20Number%20of%20K-Sum%20Pairs)|
 |[1768. Merge Strings Alternately](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/1768-Merge%20Strings%20Alternately)|
 
 |       |
