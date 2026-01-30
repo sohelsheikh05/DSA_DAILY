@@ -38,8 +38,9 @@
 |       |
 | ----- |
 | Graph |
-|[3650. Minimum Cost Path with Edge Reversals](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3650-Minimum%20Cost%20Path%20with%20Edge%20Reversals) |
 |[2976. Minimum Cost to Convert String I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2976-Minimum%20Cost%20to%20Convert%20String%20I)|
+|[2977. Minimum Cost to Convert String II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/2977-Minimum%20Cost%20to%20Convert%20String%20II) |
+|[3650. Minimum Cost Path with Edge Reversals](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3650-Minimum%20Cost%20Path%20with%20Edge%20Reversals) |
 
 
                                           
