@@ -5,6 +5,13 @@
 | ----- |
 | Array |
 |[238. Product of Array Except Self](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0238-Product%20of%20Array%20Except%20Self)|
+|[744. Find Smallest Letter Greater Than Target](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target)|
+
+
+|       |
+| ----- |
+| Binary Search |
+|[744. Find Smallest Letter Greater Than Target](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target)|
 
 
 |       |
