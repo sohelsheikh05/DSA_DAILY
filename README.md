@@ -5,8 +5,10 @@
 | ----- |
 | Array |
 |[238. Product of Array Except Self](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0238-Product%20of%20Array%20Except%20Self)|
+|[643. Maximum Average Subarray I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0643-Maximum%20Average%20Subarray%20I)|
 |[744. Find Smallest Letter Greater Than Target](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target)|
 |[3010. Divide an Array Into Subarrays With Minimum Cost I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3010-Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I)|
+
 
 
 |       |
@@ -37,6 +39,11 @@
 |[392. Is Subsequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0392-Is%20Subsequence)|
 |[1679. Max Number of K-Sum Pairs](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1679-Max%20Number%20of%20K-Sum%20Pairs)|
 |[1768. Merge Strings Alternately](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/1768-Merge%20Strings%20Alternately)|
+
+|       |
+| ----- |
+|Sliding Window|
+||[643. Maximum Average Subarray I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0643-Maximum%20Average%20Subarray%20I)||
 
 |       |
 | ----- |
