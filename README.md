@@ -22,6 +22,7 @@
 | String |
 |[0151. Reverse Words in a String](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0151-Reverse%20Words%20in%20a%20String)|
 |[443. String Compression](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0443-String%20Compression)|
+|[1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1456-Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length)|
 
 
 |       |
@@ -43,7 +44,10 @@
 |       |
 | ----- |
 |Sliding Window|
-||[643. Maximum Average Subarray I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0643-Maximum%20Average%20Subarray%20I)||
+|[643. Maximum Average Subarray I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0643-Maximum%20Average%20Subarray%20I)|
+|[1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1456-Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length)|
+
+
 
 |       |
 | ----- |
