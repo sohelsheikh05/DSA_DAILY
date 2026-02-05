@@ -9,6 +9,7 @@
 |[744. Find Smallest Letter Greater Than Target](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target)|
 |[1004. Max Consecutive Ones III](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1004-Max%20Consecutive%20Ones%20III)|
 |[1493. Longest Subarray of 1's After Deleting One Element](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1493-Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element)|
+|[1732. Find the Highest Altitude](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/1732-Find%20the%20Highest%20Altitude)|
 |[3010. Divide an Array Into Subarrays With Minimum Cost I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3010-Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I)|
 |[3379. Transformed Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3379-Transformed%20Array)|
 |[3637. Trionic Array I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3637-Trionic%20Array%20I)|
