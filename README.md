@@ -10,6 +10,7 @@
 |[1004. Max Consecutive Ones III](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1004-Max%20Consecutive%20Ones%20III)|
 |[1493. Longest Subarray of 1's After Deleting One Element](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1493-Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element)|
 |[3010. Divide an Array Into Subarrays With Minimum Cost I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3010-Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I)|
+|[3379. Transformed Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3379-Transformed%20Array)|
 |[3637. Trionic Array I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3637-Trionic%20Array%20I)|
 |[Factorials of large numbers](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/GFG/Medium/Factorials%20of%20large%20numbers)|
 
