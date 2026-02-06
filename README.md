@@ -13,6 +13,7 @@
 |[1732. Find the Highest Altitude](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/1732-Find%20the%20Highest%20Altitude)|
 |[3010. Divide an Array Into Subarrays With Minimum Cost I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3010-Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I)|
 |[3379. Transformed Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3379-Transformed%20Array)|
+|[3634. Minimum Removals to Balance Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3634-Minimum%20Removals%20to%20Balance%20Array)|
 |[3637. Trionic Array I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3637-Trionic%20Array%20I)|
 |[Factorials of large numbers](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/GFG/Medium/Factorials%20of%20large%20numbers)|
 
@@ -34,6 +35,7 @@
 | ----- |
 | Sorting |
 |[1200. Minimum Absolute Difference](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/1200-Minimum%20Absolute%20Difference)|
+|[3634. Minimum Removals to Balance Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3634-Minimum%20Removals%20to%20Balance%20Array)|
 
 
 |       |
@@ -53,6 +55,7 @@
 |[1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1456-Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length)|
 |[1004. Max Consecutive Ones III](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1004-Max%20Consecutive%20Ones%20III)|
 |[1493. Longest Subarray of 1's After Deleting One Element](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1493-Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element)|
+|[3634. Minimum Removals to Balance Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3634-Minimum%20Removals%20to%20Balance%20Array)|
 
 
 
