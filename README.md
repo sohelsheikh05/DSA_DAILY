@@ -77,12 +77,26 @@
 |[3363. Find the Maximum Number of Fruits Collected](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/3363-Find%20the%20Maximum%20Number%20of%20Fruits%20Collected) |
 |[3651. Minimum Cost Path with Teleportations](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/3651-Minimum%20Cost%20Path%20with%20Teleportations)|
 
+
+
+|       |
+| ----- |
+| Tree |
+|[110. Balanced Binary Tree](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0110-Balanced%20Binary%20Tree)|
+
+
+
+
+
+
 |       |
 | ----- |
 | Graph |
 |[2976. Minimum Cost to Convert String I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2976-Minimum%20Cost%20to%20Convert%20String%20I)|
 |[2977. Minimum Cost to Convert String II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/2977-Minimum%20Cost%20to%20Convert%20String%20II) |
 |[3650. Minimum Cost Path with Edge Reversals](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3650-Minimum%20Cost%20Path%20with%20Edge%20Reversals) |
+
+
 
 
                                           
