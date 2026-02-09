@@ -83,6 +83,7 @@
 | ----- |
 | Tree |
 |[110. Balanced Binary Tree](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0110-Balanced%20Binary%20Tree)|
+|[1382. Balance a Binary Search Tree](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1382-Balance%20a%20Binary%20Search%20Tree)|
 
 
 |       |
