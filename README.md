@@ -58,7 +58,10 @@
 |[1493. Longest Subarray of 1's After Deleting One Element](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1493-Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element)|
 |[3634. Minimum Removals to Balance Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3634-Minimum%20Removals%20to%20Balance%20Array)|
 
-
+|       |
+| ----- |
+| Linked List |
+|[2807. Insert Greatest Common Divisors in Linked List](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2807-Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List)|
 
 |       |
 | ----- |
@@ -100,6 +103,8 @@
 | ----- |
 | Segment Trees |
 |[3721. Longest Balanced Subarray II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/3721-Longest%20Balanced%20Subarray%20II)|
+
+
 
 
 
