@@ -96,6 +96,12 @@
 |[3650. Minimum Cost Path with Edge Reversals](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3650-Minimum%20Cost%20Path%20with%20Edge%20Reversals) |
 
 
+|       |
+| ----- |
+| Segment Trees |
+|[3721. Longest Balanced Subarray II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/3721-Longest%20Balanced%20Subarray%20II)|
+
+
 
 
                                           
