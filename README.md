@@ -33,6 +33,7 @@
 |[3110. Score of a String](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3110-Score%20of%20a%20String)|
 |[3713. Longest Balanced Substring I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3713-Longest%20Balanced%20Substring%20I)|
 |[1461. Check If a String Contains All Binary Codes of Size K](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1461-Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K)|
+|[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1689-Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers)|
 
 
 |       |
