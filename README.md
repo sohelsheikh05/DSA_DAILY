@@ -30,6 +30,7 @@
 |[0151. Reverse Words in a String](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0151-Reverse%20Words%20in%20a%20String)|
 |[443. String Compression](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0443-String%20Compression)|
 |[1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1456-Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length)|
+|[1545. Find Kth Bit in Nth Binary String](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1545-Find%20Kth%20Bit%20in%20Nth%20Binary%20String)|
 |[3110. Score of a String](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3110-Score%20of%20a%20String)|
 |[3713. Longest Balanced Substring I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3713-Longest%20Balanced%20Substring%20I)|
 |[1461. Check If a String Contains All Binary Codes of Size K](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1461-Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K)|
