@@ -30,6 +30,7 @@
 |       |
 | ----- |
 | String |
+|[3. Longest Substring Without Repeating Characters](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0003-Longest%20Substring%20Without%20Repeating%20Characters)|
 |[67. Add Binary](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0067-Add%20Binary)|
 |[0151. Reverse Words in a String](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0151-Reverse%20Words%20in%20a%20String)|
 |[443. String Compression](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0443-String%20Compression)|
@@ -62,6 +63,7 @@
 |       |
 | ----- |
 |Sliding Window|
+|[3. Longest Substring Without Repeating Characters](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0003-Longest%20Substring%20Without%20Repeating%20Characters)|
 |[643. Maximum Average Subarray I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0643-Maximum%20Average%20Subarray%20I)|
 |[1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1456-Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length)|
 |[1004. Max Consecutive Ones III](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1004-Max%20Consecutive%20Ones%20III)|
@@ -76,6 +78,7 @@
 |       |
 | ----- |
 |Hashing|
+|[3. Longest Substring Without Repeating Characters](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0003-Longest%20Substring%20Without%20Repeating%20Characters)|
 |[2215. Find the Difference of Two Arrays](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/2215-Find%20the%20Difference%20of%20Two%20Arrays)|
 |[1461. Check If a String Contains All Binary Codes of Size K](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1461-Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K)|
 
