@@ -24,6 +24,7 @@
 |       |
 | ----- |
 | Binary Search |
+|[4. Median of Two Sorted Arrays](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0004-Median%20of%20Two%20Sorted%20Arrays)|
 |[744. Find Smallest Letter Greater Than Target](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target)|
 
 
