@@ -73,6 +73,11 @@
 
 |       |
 | ----- |
+|Prefix Sum|
+|[2906. Construct Product Matrix](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2906-Construct%20Product%20Matrix)|
+
+|       |
+| ----- |
 | Linked List |
 |[2807. Insert Greatest Common Divisors in Linked List](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2807-Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List)|
 
