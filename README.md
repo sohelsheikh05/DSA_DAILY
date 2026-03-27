@@ -48,6 +48,7 @@
 | ----- |
 | Sorting |
 |[502. IPO](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0502-IPO)|
+|[621. Task Scheduler](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0621-Task%20Scheduler)|
 |[1200. Minimum Absolute Difference](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/1200-Minimum%20Absolute%20Difference)|
 |[3634. Minimum Removals to Balance Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3634-Minimum%20Removals%20to%20Balance%20Array)|
 
@@ -86,6 +87,7 @@
 | ----- |
 |Hashing|
 |[3. Longest Substring Without Repeating Characters](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0003-Longest%20Substring%20Without%20Repeating%20Characters)|
+|[621. Task Scheduler](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0621-Task%20Scheduler)|
 |[2215. Find the Difference of Two Arrays](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/2215-Find%20the%20Difference%20of%20Two%20Arrays)|
 |[1461. Check If a String Contains All Binary Codes of Size K](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1461-Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K)|
 
@@ -131,6 +133,7 @@
 | ----- |
 | Heap |
 |[502. IPO](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0502-IPO)|
+|[621. Task Scheduler](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0621-Task%20Scheduler)|
 
 
 
