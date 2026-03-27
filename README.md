@@ -47,6 +47,7 @@
 |       |
 | ----- |
 | Sorting |
+|[502. IPO](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0502-IPO)|
 |[1200. Minimum Absolute Difference](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/1200-Minimum%20Absolute%20Difference)|
 |[3634. Minimum Removals to Balance Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3634-Minimum%20Removals%20to%20Balance%20Array)|
 
@@ -124,6 +125,12 @@
 | ----- |
 | Segment Trees |
 |[3721. Longest Balanced Subarray II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/3721-Longest%20Balanced%20Subarray%20II)|
+
+
+|       |
+| ----- |
+| Heap |
+|[502. IPO](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0502-IPO)|
 
 
 
