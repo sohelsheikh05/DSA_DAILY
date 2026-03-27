@@ -47,6 +47,7 @@
 |       |
 | ----- |
 | Sorting |
+||[Job Sequencing Problem](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/GFG/Medium/Job%20Sequencing%20Problem)||
 |[502. IPO](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0502-IPO)|
 |[621. Task Scheduler](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0621-Task%20Scheduler)|
 |[1200. Minimum Absolute Difference](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/1200-Minimum%20Absolute%20Difference)|
@@ -132,12 +133,15 @@
 |       |
 | ----- |
 | Heap |
+|[Job Sequencing Problem](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/GFG/Medium/Job%20Sequencing%20Problem)|
 |[502. IPO](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0502-IPO)|
 |[621. Task Scheduler](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0621-Task%20Scheduler)|
 
 
-
-
+|       |
+| ----- |
+| Disjoint Set Union (DSU) |
+|[Job Sequencing Problem](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/GFG/Medium/Job%20Sequencing%20Problem)|
 
 
                                           
