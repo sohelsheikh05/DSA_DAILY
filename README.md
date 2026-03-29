@@ -42,6 +42,7 @@
 |[1461. Check If a String Contains All Binary Codes of Size K](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1461-Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K)|
 |[1758. Minimum Changes To Make Alternating Binary String](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String)|
 |[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1689-Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers)|
+|[2840. Check if Strings Can be Made Equal With Operations II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2840-Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II)|
 
 
 |       |
