@@ -49,6 +49,7 @@
 | ----- |
 | Sorting |
 ||[Job Sequencing Problem](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/GFG/Medium/Job%20Sequencing%20Problem)||
+|[15-3Sum](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0015-3Sum)|
 |[502. IPO](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0502-IPO)|
 |[621. Task Scheduler](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0621-Task%20Scheduler)|
 |[1200. Minimum Absolute Difference](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/1200-Minimum%20Absolute%20Difference)|
@@ -59,6 +60,7 @@
 | ----- |
 |Two Pointer|
 |[11. Container With Most Water](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0011-Container%20With%20Most%20Water)|
+|[15-3Sum](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0015-3Sum)|
 |[283. Move Zeroes](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0283-pMove%20Zeroes)|
 |[334. Increasing Triplet Subsequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0334-Increasing%20Triplet%20Subsequence)|
 |[392. Is Subsequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0392-Is%20Subsequence)|
