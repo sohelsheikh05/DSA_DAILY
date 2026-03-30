@@ -6,6 +6,7 @@
 | Array |
 |[31. Next Permutation](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0031-Next%20Permutation)|
 |[36. Valid Sudoku](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0036-Valid%20Sudoku)|
+|[41. First Missing Positive](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0041-First%20Missing%20Positive)|
 |[54. Spiral Matrix](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0054-Spiral%20Matrix)|
 |[54. Spiral Matrix II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0059-Spiral%20Matrix%20II)|
 |[134. Gas Station](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0134-Gas%20Station)|
