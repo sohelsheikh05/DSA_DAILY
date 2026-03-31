@@ -7,6 +7,7 @@
 |[31. Next Permutation](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0031-Next%20Permutation)|
 |[36. Valid Sudoku](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0036-Valid%20Sudoku)|
 |[41. First Missing Positive](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0041-First%20Missing%20Positive)|
+|[42. Trapping Rain Water](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0042-Trapping%20Rain%20Water)|
 |[54. Spiral Matrix](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0054-Spiral%20Matrix)|
 |[54. Spiral Matrix II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0059-Spiral%20Matrix%20II)|
 |[134. Gas Station](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0134-Gas%20Station)|
@@ -64,6 +65,7 @@
 |Two Pointer|
 |[11. Container With Most Water](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0011-Container%20With%20Most%20Water)|
 |[15-3Sum](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0015-3Sum)|
+|[42. Trapping Rain Water](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0042-Trapping%20Rain%20Water)|
 |[283. Move Zeroes](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0283-pMove%20Zeroes)|
 |[334. Increasing Triplet Subsequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0334-Increasing%20Triplet%20Subsequence)|
 |[392. Is Subsequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0392-Is%20Subsequence)|
@@ -83,12 +85,21 @@
 |       |
 | ----- |
 |Prefix Sum|
+|[42. Trapping Rain Water](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0042-Trapping%20Rain%20Water)|
 |[2906. Construct Product Matrix](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2906-Construct%20Product%20Matrix)|
 
 |       |
 | ----- |
 | Linked List |
 |[2807. Insert Greatest Common Divisors in Linked List](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2807-Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List)|
+
+
+|       |
+| ----- |
+| Stack |
+|[42. Trapping Rain Water](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0042-Trapping%20Rain%20Water)|
+
+
 
 |       |
 | ----- |
