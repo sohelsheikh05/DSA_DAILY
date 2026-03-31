@@ -38,6 +38,7 @@
 | ----- |
 | String |
 |[3. Longest Substring Without Repeating Characters](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0003-Longest%20Substring%20Without%20Repeating%20Characters)|
+|[49. Group Anagrams](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0049-Group%20Anagrams)|
 |[67. Add Binary](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0067-Add%20Binary)|
 |[0151. Reverse Words in a String](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0151-Reverse%20Words%20in%20a%20String)|
 |[443. String Compression](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0443-String%20Compression)|
