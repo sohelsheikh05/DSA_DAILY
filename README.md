@@ -12,6 +12,7 @@
 |[48. Rotate Image](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0048-Rotate%20Image)|
 |[54. Spiral Matrix](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0054-Spiral%20Matrix)|
 |[54. Spiral Matrix II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0059-Spiral%20Matrix%20II)|
+|[55. Jump Game](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0055-Jump%20Game)|
 |[134. Gas Station](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0134-Gas%20Station)|
 |[238. Product of Array Except Self](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0238-Product%20of%20Array%20Except%20Self)|
 |[643. Maximum Average Subarray I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0643-Maximum%20Average%20Subarray%20I)|
@@ -131,7 +132,7 @@
 | ----- |
 | Greedy |
 |[45. Jump Game II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0045-Jump%20Game%20II)|
-
+|[55. Jump Game](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0055-Jump%20Game)|
 
 
 |       |
