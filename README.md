@@ -9,6 +9,7 @@
 |[41. First Missing Positive](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0041-First%20Missing%20Positive)|
 |[42. Trapping Rain Water](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0042-Trapping%20Rain%20Water)|
 |[45. Jump Game II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0045-Jump%20Game%20II)|
+|[48. Rotate Image](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0048-Rotate%20Image)|
 |[54. Spiral Matrix](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0054-Spiral%20Matrix)|
 |[54. Spiral Matrix II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0059-Spiral%20Matrix%20II)|
 |[134. Gas Station](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0134-Gas%20Station)|
