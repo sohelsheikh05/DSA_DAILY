@@ -112,8 +112,10 @@
 |Hashing|
 |[3. Longest Substring Without Repeating Characters](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0003-Longest%20Substring%20Without%20Repeating%20Characters)|
 |[621. Task Scheduler](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0621-Task%20Scheduler)|
-|[2215. Find the Difference of Two Arrays](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/2215-Find%20the%20Difference%20of%20Two%20Arrays)|
 |[1461. Check If a String Contains All Binary Codes of Size K](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1461-Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K)|
+|[2215. Find the Difference of Two Arrays](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/2215-Find%20the%20Difference%20of%20Two%20Arrays)|
+|[3741. Minimum Distance Between Three Equal Elements II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3741-Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II)|
+
 
 
 |       |
