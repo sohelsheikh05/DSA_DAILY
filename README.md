@@ -20,6 +20,7 @@
 |[84. Largest Rectangle in Histogram](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0084-Largest%20Rectangle%20in%20Histogram)|
 |[128. Longest Consecutive Sequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0128-Longest%20Consecutive%20Sequence)|
 |[134. Gas Station](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0134-Gas%20Station)|
+|[135. Candy](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0135-Candy)|
 |[238. Product of Array Except Self](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0238-Product%20of%20Array%20Except%20Self)|
 |[643. Maximum Average Subarray I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0643-Maximum%20Average%20Subarray%20I)|
 |[724. Find Pivot Index](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0724-Find%20Pivot%20Index)|
@@ -144,6 +145,7 @@
 | Greedy |
 |[45. Jump Game II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0045-Jump%20Game%20II)|
 |[55. Jump Game](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0055-Jump%20Game)|
+|[135. Candy](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0135-Candy)|
 
 
 |       |
