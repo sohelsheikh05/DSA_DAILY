@@ -16,6 +16,7 @@
 |[56. Merge Intervals](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0056-Merge%20Intervals)|
 |[57. Insert Interval](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0057-Insert%20Interval)|
 |[73. Set Matrix Zeroes](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0073-Set%20Matrix%20Zeroes)|
+|[84. Largest Rectangle in Histogram](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0084-Largest%20Rectangle%20in%20Histogram)|
 |[134. Gas Station](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0134-Gas%20Station)|
 |[75. Sort Colors](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0075-Sort%20Colors)|
 |[238. Product of Array Except Self](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0238-Product%20of%20Array%20Except%20Self)|
@@ -107,6 +108,7 @@
 | ----- |
 | Stack |
 |[42. Trapping Rain Water](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0042-Trapping%20Rain%20Water)|
+|[84. Largest Rectangle in Histogram](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0084-Largest%20Rectangle%20in%20Histogram)|
 
 
 
