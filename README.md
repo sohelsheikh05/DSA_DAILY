@@ -16,9 +16,10 @@
 |[56. Merge Intervals](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0056-Merge%20Intervals)|
 |[57. Insert Interval](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0057-Insert%20Interval)|
 |[73. Set Matrix Zeroes](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0073-Set%20Matrix%20Zeroes)|
-|[84. Largest Rectangle in Histogram](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0084-Largest%20Rectangle%20in%20Histogram)|
-|[134. Gas Station](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0134-Gas%20Station)|
 |[75. Sort Colors](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0075-Sort%20Colors)|
+|[84. Largest Rectangle in Histogram](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0084-Largest%20Rectangle%20in%20Histogram)|
+|[128. Longest Consecutive Sequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0128-Longest%20Consecutive%20Sequence)|
+|[134. Gas Station](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0134-Gas%20Station)|
 |[238. Product of Array Except Self](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0238-Product%20of%20Array%20Except%20Self)|
 |[643. Maximum Average Subarray I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0643-Maximum%20Average%20Subarray%20I)|
 |[724. Find Pivot Index](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0724-Find%20Pivot%20Index)|
@@ -116,6 +117,7 @@
 | ----- |
 |Hashing|
 |[3. Longest Substring Without Repeating Characters](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0003-Longest%20Substring%20Without%20Repeating%20Characters)|
+|[128. Longest Consecutive Sequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0128-Longest%20Consecutive%20Sequence)|
 |[621. Task Scheduler](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0621-Task%20Scheduler)|
 |[1461. Check If a String Contains All Binary Codes of Size K](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1461-Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K)|
 |[2215. Find the Difference of Two Arrays](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/2215-Find%20the%20Difference%20of%20Two%20Arrays)|
