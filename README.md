@@ -23,6 +23,7 @@
 |[135. Candy](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0135-Candy)|
 |[189. Rotate Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0189-Rotate%20Array)|
 |[238. Product of Array Except Self](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0238-Product%20of%20Array%20Except%20Self)|
+|[239. Sliding Window Maximum](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0239-Sliding%20Window%20Maximum)|
 |[643. Maximum Average Subarray I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0643-Maximum%20Average%20Subarray%20I)|
 |[724. Find Pivot Index](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0724-Find%20Pivot%20Index)|
 |[744. Find Smallest Letter Greater Than Target](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target)|
@@ -90,6 +91,7 @@
 | ----- |
 |Sliding Window|
 |[3. Longest Substring Without Repeating Characters](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0003-Longest%20Substring%20Without%20Repeating%20Characters)|
+|[239. Sliding Window Maximum](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0239-Sliding%20Window%20Maximum)|
 |[643. Maximum Average Subarray I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0643-Maximum%20Average%20Subarray%20I)|
 |[1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1456-Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length)|
 |[1004. Max Consecutive Ones III](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1004-Max%20Consecutive%20Ones%20III)|
@@ -113,6 +115,12 @@
 | Stack |
 |[42. Trapping Rain Water](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0042-Trapping%20Rain%20Water)|
 |[84. Largest Rectangle in Histogram](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0084-Largest%20Rectangle%20in%20Histogram)|
+
+
+|       |
+| ----- |
+|Queue  |
+|[239. Sliding Window Maximum](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0239-Sliding%20Window%20Maximum)|
 
 
 
@@ -177,6 +185,7 @@
 | ----- |
 | Heap |
 |[Job Sequencing Problem](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/GFG/Medium/Job%20Sequencing%20Problem)|
+|[239. Sliding Window Maximum](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0239-Sliding%20Window%20Maximum)|
 |[502. IPO](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0502-IPO)|
 |[621. Task Scheduler](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0621-Task%20Scheduler)|
 
