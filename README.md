@@ -21,6 +21,7 @@
 |[128. Longest Consecutive Sequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0128-Longest%20Consecutive%20Sequence)|
 |[134. Gas Station](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0134-Gas%20Station)|
 |[135. Candy](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0135-Candy)|
+|[189. Rotate Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0189-Rotate%20Array)|
 |[238. Product of Array Except Self](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0238-Product%20of%20Array%20Except%20Self)|
 |[643. Maximum Average Subarray I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0643-Maximum%20Average%20Subarray%20I)|
 |[724. Find Pivot Index](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0724-Find%20Pivot%20Index)|
@@ -78,6 +79,7 @@
 |[15-3Sum](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0015-3Sum)|
 |[42. Trapping Rain Water](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0042-Trapping%20Rain%20Water)|
 |[75. Sort Colors](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0075-Sort%20Colors)|
+|[189. Rotate Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0189-Rotate%20Array)|
 |[283. Move Zeroes](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0283-pMove%20Zeroes)|
 |[334. Increasing Triplet Subsequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0334-Increasing%20Triplet%20Subsequence)|
 |[392. Is Subsequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0392-Is%20Subsequence)|
