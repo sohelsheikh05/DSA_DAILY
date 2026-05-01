@@ -104,6 +104,7 @@
 |Prefix Sum|
 |[42. Trapping Rain Water](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0042-Trapping%20Rain%20Water)|
 |[2906. Construct Product Matrix](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2906-Construct%20Product%20Matrix)|
+|[3862. Find the Smallest Balanced Index](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3862-Find%20the%20Smallest%20Balanced%20Index)|
 
 |       |
 | ----- |
