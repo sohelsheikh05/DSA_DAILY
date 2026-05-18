@@ -199,7 +199,11 @@
 |[Job Sequencing Problem](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/GFG/Medium/Job%20Sequencing%20Problem)|
 
 
-                                          
+   
+|       |
+| ----- |
+| DFS |    
+|[1306. Jump Game III](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1306.%20Jump%20Game%20III)|                                   
   
 
  
