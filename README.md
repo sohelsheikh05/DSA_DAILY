@@ -71,6 +71,7 @@
 |[502. IPO](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0502-IPO)|
 |[621. Task Scheduler](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0621-Task%20Scheduler)|
 |[1200. Minimum Absolute Difference](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/1200-Minimum%20Absolute%20Difference)|
+|[2126. Destroying Asteroids](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2126-Destroying%20Asteroids)|
 |[3634. Minimum Removals to Balance Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3634-Minimum%20Removals%20to%20Balance%20Array)|
 
 
