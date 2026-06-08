@@ -32,6 +32,7 @@
 |[1493. Longest Subarray of 1's After Deleting One Element](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1493-Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element)|
 |[1582. Special Positions in a Binary Matrix](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/1582-Special%20Positions%20in%20a%20Binary%20Matrix)|
 |[1732. Find the Highest Altitude](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/1732-Find%20the%20Highest%20Altitude)|
+|[2161. Partition Array According to Given Pivot](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot)|
 |[3010. Divide an Array Into Subarrays With Minimum Cost I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3010-Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I)|
 |[3379. Transformed Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3379-Transformed%20Array)|
 |[3634. Minimum Removals to Balance Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3634-Minimum%20Removals%20to%20Balance%20Array)|
@@ -89,6 +90,7 @@
 |[392. Is Subsequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0392-Is%20Subsequence)|
 |[1679. Max Number of K-Sum Pairs](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1679-Max%20Number%20of%20K-Sum%20Pairs)|
 |[1768. Merge Strings Alternately](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/1768-Merge%20Strings%20Alternately)|
+|[2161. Partition Array According to Given Pivot](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot)|
 
 |       |
 | ----- |
