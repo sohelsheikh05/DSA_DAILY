@@ -37,6 +37,7 @@
 |[3379. Transformed Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3379-Transformed%20Array)|
 |[3634. Minimum Removals to Balance Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3634-Minimum%20Removals%20to%20Balance%20Array)|
 |[3637. Trionic Array I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/3637-Trionic%20Array%20I)|
+|[3689. Maximum Total Subarray Value I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3689-Maximum%20Total%20Subarray%20Value%20I)|
 |[Factorials of large numbers](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/GFG/Medium/Factorials%20of%20large%20numbers)|
 
 |       |
@@ -165,6 +166,7 @@
 |[45. Jump Game II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0045-Jump%20Game%20II)|
 |[55. Jump Game](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0055-Jump%20Game)|
 |[135. Candy](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0135-Candy)|
+|[3689. Maximum Total Subarray Value I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3689-Maximum%20Total%20Subarray%20Value%20I)|
 
 
 |       |
