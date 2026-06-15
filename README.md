@@ -116,6 +116,7 @@
 | ----- |
 | Linked List |
 |[2095. Delete the Middle Node of a Linked List](http://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2095-Delete%20the%20Middle%20Node%20of%20a%20Linked%20List)|
+|[2130. Maximum Twin Sum of a Linked List](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2130-Maximum%20Twin%20Sum%20of%20a%20Linked%20List)|
 |[2807. Insert Greatest Common Divisors in Linked List](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2807-Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List)|
 
 
