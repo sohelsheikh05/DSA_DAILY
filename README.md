@@ -120,7 +120,7 @@
 |[2807. Insert Greatest Common Divisors in Linked List](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2807-Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List)|
 
 
-|       |
+|          |
 | ----- |
 | Stack |
 |[42. Trapping Rain Water](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0042-Trapping%20Rain%20Water)|
