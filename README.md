@@ -86,6 +86,7 @@
 |[42. Trapping Rain Water](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0042-Trapping%20Rain%20Water)|
 |[75. Sort Colors](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0075-Sort%20Colors)|
 |[88. Merge Sorted Array](http://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/88.%20Merge%20Sorted%20Array)|
+|[88. Merge Sorted Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/125-Valid%20Palindrome)|
 |[189. Rotate Array](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0189-Rotate%20Array)|
 |[283. Move Zeroes](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/0283-pMove%20Zeroes)|
 |[334. Increasing Triplet Subsequence](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0334-Increasing%20Triplet%20Subsequence)|
