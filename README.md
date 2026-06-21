@@ -113,6 +113,7 @@
 |[2574. Left and Right Sum Differences](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/2574-Left%20and%20Right%20Sum%20Differences)|
 |[2906. Construct Product Matrix](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2906-Construct%20Product%20Matrix)|
 |[3862. Find the Smallest Balanced Index](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3862-Find%20the%20Smallest%20Balanced%20Index)|
+|[3964. Minimum Lights to Illuminate a Road](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3964-Minimum%20Lights%20to%20Illuminate%20a%20Road)|
 
 |       |
 | ----- |
