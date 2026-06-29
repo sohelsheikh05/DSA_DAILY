@@ -112,6 +112,7 @@
 |[42. Trapping Rain Water](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0042-Trapping%20Rain%20Water)|
 |[2574. Left and Right Sum Differences](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/2574-Left%20and%20Right%20Sum%20Differences)|
 |[2906. Construct Product Matrix](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2906-Construct%20Product%20Matrix)|
+|[3026. Maximum Good Subarray Sum](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3026-Maximum%20Good%20Subarray%20Sum)|
 |[3862. Find the Smallest Balanced Index](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3862-Find%20the%20Smallest%20Balanced%20Index)|
 |[3964. Minimum Lights to Illuminate a Road](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3964-Minimum%20Lights%20to%20Illuminate%20a%20Road)|
 
@@ -145,6 +146,7 @@
 |[621. Task Scheduler](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0621-Task%20Scheduler)|
 |[1461. Check If a String Contains All Binary Codes of Size K](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1461-Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K)|
 |[2215. Find the Difference of Two Arrays](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Easy/2215-Find%20the%20Difference%20of%20Two%20Arrays)|
+|[3026. Maximum Good Subarray Sum](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3026-Maximum%20Good%20Subarray%20Sum)|
 |[3741. Minimum Distance Between Three Equal Elements II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3741-Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II)|
 
 
