@@ -216,7 +216,8 @@
 |       |
 | ----- |
 | DFS |    
-|[1306. Jump Game III](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1306.%20Jump%20Game%20III)|                                   
+|[1306. Jump Game III](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/1306.%20Jump%20Game%20III)|
+|[3965. Finish Time of Tasks I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3965-Finish%20Time%20of%20Tasks%20I)|                                   
   
 
  
