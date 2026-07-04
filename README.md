@@ -188,9 +188,11 @@
 |       |
 | ----- |
 | Graph |
+|[2492. Minimum Score of a Path Between Two Cities](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2492-Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities)|
 |[2976. Minimum Cost to Convert String I](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/2976-Minimum%20Cost%20to%20Convert%20String%20I)|
 |[2977. Minimum Cost to Convert String II](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/2977-Minimum%20Cost%20to%20Convert%20String%20II) |
 |[3650. Minimum Cost Path with Edge Reversals](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3650-Minimum%20Cost%20Path%20with%20Edge%20Reversals) |
+
 
 
 |       |
