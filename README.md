@@ -209,6 +209,7 @@
 |[239. Sliding Window Maximum](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0239-Sliding%20Window%20Maximum)|
 |[502. IPO](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Hard/0502-IPO)|
 |[621. Task Scheduler](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/0621-Task%20Scheduler)|
+|[3286. Find a Safe Walk Through a Grid](https://github.com/sohelsheikh05/DSA_DAILY/tree/main/LeetCode/Medium/3286-Find%20a%20Safe%20Walk%20Through%20a%20Grid)|
 
 
 |       |
